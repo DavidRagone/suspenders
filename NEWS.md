@@ -4,6 +4,10 @@
 * Update Neat to 2.1
 * Update Bourbon to 5.0.0.beta.8
 
+DavidRagone-fork
+
+* No longer remove turoblinks
+
 1.44.0 (January 25, 2017)
 
 * Improve readability of `bin/setup-review-app` (#819)
